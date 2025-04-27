@@ -21,3 +21,4 @@ ainda há aguns problemas que não posso corrigir:
 - ao empilhar itens, e deletar, somente uma unidade será deletada e o item é bloqueado, ex se na sua compra houver 6 feijões e voce decidir excluir, o item feijão diminuirá apenas de x6 para x5, e não é possivel mais selecionar ou excluir
 - no menu de seguros ao adicionar o celular utilizando o número 9, deveria ser possivel utilizar as setas do teclado ou as teclas "w" e "s", mas isso não se tornou possivel, a seleção é possivel somente com o mouse
 - clicar no "enter"(principal) depois do PDV já estar aberto, abre o pdv novamente, como uma segunda camada
+- as formas de pagamento obviamente são ficticias, e mesmo selecionando crédito, débito ou pix como pagamento, a venda será marcada como sucesso sem solicitar uma simulação de pagamento 
